@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### It's better to burn out than to fade away
+#### It's better to burn out than to fade away 🔥
 <!--
 **no5no6/no5no6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
