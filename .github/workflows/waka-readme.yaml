@@ -13,6 +13,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@master
+      - name: waka-box
+        uses: matchai/waka-box@v4.0.5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
