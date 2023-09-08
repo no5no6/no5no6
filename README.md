@@ -3,6 +3,15 @@
 
 ## My weekly development status
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js       37 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 %
+JSON         25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+YAML         25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+Markdown     23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+JavaScript   17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Statistics
