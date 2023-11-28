@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 40 mins   ███████████████▓░░░░░░░░░   63.27 %
-JavaScript   3 hrs 52 mins   █████████▒░░░░░░░░░░░░░░░   36.71 %
-Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown     4 hrs 46 mins   ███████████████▒░░░░░░░░░   60.98 %
+JavaScript   3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.99 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
