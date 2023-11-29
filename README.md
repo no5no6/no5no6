@@ -5,8 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 hrs 46 mins   ███████████████▒░░░░░░░░░   60.98 %
-JavaScript   3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.99 %
+Markdown     4 hrs 28 mins   ███████████▓░░░░░░░░░░░░░   46.90 %
+JavaScript   3 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.29 %
+Solidity     1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
