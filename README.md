@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     7 hrs 17 mins   ███████████████████▒░░░░░   77.18 %
-Solidity     1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   20.63 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Markdown     7 hrs 55 mins   ███████████████████████▓░   94.60 %
+JavaScript   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
