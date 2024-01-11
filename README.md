@@ -5,7 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 36 mins    █████████████████████████   100.00 %
+Markdown     1 hr 5 mins     ███████████████████░░░░░░   75.67 %
+TypeScript   14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+Vue.js       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
