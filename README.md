@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   6 hrs 4 mins    ████████████████████████▓   98.37 %
-Vue.js     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown   3 hrs 4 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
