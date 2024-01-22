@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 30 mins   █████████████████████████   100.00 %
+Markdown     3 hrs 33 mins   ███████████████████████░░   92.65 %
+JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
